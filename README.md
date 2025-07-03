@@ -2,7 +2,7 @@
 
 **Summary:**
 
-This solution leverages machine learning techniques to classify and predict the type of maintenance required for motors. By providing recommendations on the type of corrective maintenance needed, the system can help avoid unnecessary troubleshooting steps and misdiagnoses, ultimately reducing downtime and operational disruptions. Its development involves data collection, preprocessing, model training & optimization, deployment and validation to build a predictive system that categorizes maintenance needs based on motor conditions and historical patterns. The outcome is a smart maintenance recommendation engine that integrates into existing workflows, enabling organizations to optimize their maintenance schedules, allocate resources efficiently, and reduce unexpected motor failures.
+This solution leverages machine learning techniques to classify and predict the type of maintenance required for motors. By providing recommendations on the type of corrective maintenance needed, the system can help avoid unnecessary troubleshooting steps and misdiagnoses, ultimately reducing downtime and operational disruptions. Its development involves data collection, preprocessing, model training & optimization, deployment, validation and monitoring to build a predictive system that categorizes maintenance needs based on motor conditions and historical patterns. The outcome is a smart maintenance recommendation engine that integrates into existing workflows, enabling organizations to optimize their maintenance schedules, allocate resources efficiently, and reduce unexpected motor failures.
 
 **Dataset:**
 
@@ -44,3 +44,5 @@ XGBoost model predicting type of errors based on sensor data related to AC-Motor
 
 **Deployment Architecture:**
 ![image](https://github.com/user-attachments/assets/e3a991ff-cb47-4e0c-8074-0e9750449759)
+
+**Front-End Application URL:** https://ai-motor-ui-container-1068549159816.us-central1.run.app/
