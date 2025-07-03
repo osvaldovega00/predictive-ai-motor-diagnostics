@@ -45,4 +45,8 @@ XGBoost model predicting type of errors based on sensor data related to AC-Motor
 **Deployment Architecture:**
 ![image](https://github.com/user-attachments/assets/e3a991ff-cb47-4e0c-8074-0e9750449759)
 
+**Request-Response Logging in Google BigQuery:**
+![image](https://github.com/user-attachments/assets/bc7caf4d-862c-4356-b657-a5fdc83887f8)
+
+
 **Front-End Application URL:** https://ai-motor-ui-container-1068549159816.us-central1.run.app/
