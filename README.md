@@ -38,7 +38,6 @@ Dataset Link: https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maint
 XGBoost model predicting type of errors based on sensor data related to AC-Motors.
 
 **App Preview:**
-
 ![Screenshot 2025-06-22 215558](https://github.com/user-attachments/assets/513a136c-c336-4638-8f3e-881960f682e6)
 
 
