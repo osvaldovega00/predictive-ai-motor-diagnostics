@@ -47,4 +47,9 @@ XGBoost model predicting type of errors based on sensor data related to AC-Motor
 **Request-Response Logging in Google BigQuery:**
 ![image](https://github.com/user-attachments/assets/7e432c8c-2597-4b91-a845-98ea8862c4bb)
 
-**Front-End Application URL:** Pending
+**Data Drift Monitoring in Google Vertex AI:**
+Google Vertex AI monitors data drift on the project endpoiont and runs a report every 6 hours (arbitrarily chosen). If the drift value exceed threshold of 0.3, an alert is triggered and sent to email.
+![image](https://github.com/user-attachments/assets/31adaef7-3c05-4078-828b-cf6ae12d3a89)
+
+
+**Front-End Application URL:** https://ai-motor-ui-container-1068549159816.us-central1.run.app/
